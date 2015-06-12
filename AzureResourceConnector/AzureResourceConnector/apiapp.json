@@ -1,0 +1,14 @@
+﻿{
+    "$schema": "http://json-schema.org/schemas/2014-11-01/apiapp.json#",
+    "id": "AzureResourceConnector",
+    "namespace": "microsoft.com",
+    "gateway": "2015-01-14",
+    "version": "1.0.0",
+    "title": "AzureResourceConnector",
+    "summary": "Connect to the resources in your Azure subscription.",
+    "author": "Stephen Siciliano",
+    "endpoints": {
+        "apiDefinition": "/swagger/docs/v1",
+        "status": null
+    }
+}
